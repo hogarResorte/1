@@ -1,0 +1,64 @@
+body {
+    background-color:orange ;
+    background-image: url('Logo.png');
+    background-repeat: repeat-x;
+    background-size: 102px;
+}
+
+h1 {
+    color:navy;
+    font-family: 'Indie Flower', cursive;
+    font-size: 43px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 150px;
+ }
+ 
+    
+    
+
+ 
+ header {
+     background-color: snow;
+     background-position: center;
+ }
+
+
+
+.nombres {
+    
+    color: navy;
+    font-family: 'Fredoka One', cursive;
+   font-size: 20px;
+   margin-left: 34px;
+   text-align: center;
+}
+img {
+    width: 205px;
+    height: 273px;
+}
+
+fieldset {
+    display: inline;
+    text-align: center;
+    border: 5px solid;
+}
+
+footer {
+    background-color: black;
+    padding: 30px;
+    color: white; 
+    font-family: 'Baloo Chettan 2', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+.conteiner-fluid {
+    text-align: center;
+}
+
+.intro {
+    text-align: center;
+    color: black;
+    font-family: 'Fredoka One', cursive;
+   font-size: 20px;
+}

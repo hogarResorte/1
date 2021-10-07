@@ -1,0 +1,72 @@
+
+    
+
+
+body {
+    background-color:orange;
+    background-image: url('Logo.png');
+    background-repeat: repeat-x;
+    background-size: 102px;
+
+}
+
+
+.nombres {
+  
+    font-family: 'Fredoka One', cursive;
+   font-size: 20px;
+   margin-left: 15px;
+   text-align: center;
+}
+img {
+    width: 230px;
+    height: 293px;
+    border: 20px solid;
+    border-color: snow;
+    margin: 5px;
+}
+
+fieldset {
+    display: inline;
+    text-align: center;
+}
+
+h1 {
+   color:orange;
+   font-family: 'Indie Flower', cursive;
+   font-size: 40px;
+   text-align: center;
+   margin-bottom: 30px;
+   margin-top: 150px;
+}
+
+header {
+    background-color: snow;
+    background-position: center;
+}
+
+
+footer {
+    background-color: black;
+    padding: 30px;
+   color: white; 
+   font-family: 'Baloo Chettan 2', cursive;
+   font-size: 20px;
+   text-align: center;
+
+}
+
+.MP {
+  border: black;
+  width: 60px;
+  height: 60px;
+}
+
+#insta {
+   
+    display: inline;
+}
+#face {
+    
+    display: inline;
+}
